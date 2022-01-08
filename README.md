@@ -1,2 +1,2 @@
-# site-em-manuten-o
+# site-em-manutenção
 Layout para site em manutenção
